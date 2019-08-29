@@ -34,4 +34,5 @@ Abaixo estão descritas as funcionalidades que você deve adicionar em sua aplic
   <li>Sequelize - Biblioteca para abstração do banco de dados.</li>
    <li>Banco de dados Postgres.</li>
    <li>Docker - para criar o container onde contem a base dados.</li>
+  <li>Node.js - plataforma para gerenciar a api</li>
 <ul>
