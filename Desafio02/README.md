@@ -32,7 +32,7 @@ Abaixo estão descritas as funcionalidades que você deve adicionar em sua aplic
   <li>Sucrase + Nodemon - Compiladores.</li>
   <li>ESLint + Prettier - Plugins VSCODE.</li>
   <li>Sequelize - Biblioteca para abstração do banco de dados.</li>
-   <li>Banco de dados Postgres.</li>
+   <li>Banco de dados Postgres .</li>
    <li>Docker - para criar o container onde contem a base dados.</li>
   <li>Node.js - plataforma para gerenciar a api</li>
 <ul>
